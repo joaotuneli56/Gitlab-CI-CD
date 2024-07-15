@@ -4,7 +4,7 @@ Nesse curso foi apresentado duas maneiras de preparação de ambiente:
 
 ### 1º Gitlab online
 
-[ ] - 1º paso criar sua conta na plataforma [gitlab](https://gitlab.com/dashboard/projects).
+- [ ]1º paso criar sua conta na plataforma [gitlab](https://gitlab.com/dashboard/projects).
 
 [ ] - 2º Valide sua conta.
 
