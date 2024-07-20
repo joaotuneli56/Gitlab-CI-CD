@@ -1,4 +1,4 @@
-# 01 Preparando o ambiente
+# Preparando o ambiente Local e Web
 
 Nesse curso foi apresentado duas maneiras de preparação de ambiente:
 
