@@ -51,7 +51,7 @@ ocker run -dit \
   gitlab/gitlab-ce:14.7.6-ce.0
 ```
 
-> **OBS:** Caso vc não consigo executar o comando `docker ps -a`, será necessario inserir seu ususario no grupo docker:
+> **OBS:** Caso vc não consigo executar o comando `docker ps -a`, será necessario inserir seu usuário no grupo docker:
 
 ```bash
 sudo usermod -aG docker <nome_do_seu_usuario_root>
