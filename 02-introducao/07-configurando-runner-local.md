@@ -30,10 +30,6 @@ gitlab-runner run
 
 # Passo a passo para configuração do Runner localmente.
 
-- [ ] 1️⃣ - registrar o git lab-runner com o seguinte commando:
-
-# Passo a passo para configuração do Runner localmente.
-
 - [ ] 1️⃣ Ingressar o Runner em modo shell no Gitlab
 
 ```bash
