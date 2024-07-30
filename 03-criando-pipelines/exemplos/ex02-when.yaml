@@ -1,0 +1,17 @@
+stages:
+ - etapa1 
+ - Etapa2
+
+Etapa1:
+  stage: etapa1
+  when: on_success
+  script:
+    - echo "etapa 1"
+
+Etapa2:
+  stage: etapa2
+  when: on_failure
+  script:
+    - echo "etapa 2"
+
+

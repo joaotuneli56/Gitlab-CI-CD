@@ -1,0 +1,5 @@
+job3:
+  timeout: 1m
+  script:
+    - sleep 20
+    - echo "Executa com timeout de 1 minuto" 

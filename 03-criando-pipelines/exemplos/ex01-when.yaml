@@ -1,0 +1,4 @@
+job2:
+  when: delayed
+  start_in: 1 minute
+  script: echo "Execução em 1 minuto"
