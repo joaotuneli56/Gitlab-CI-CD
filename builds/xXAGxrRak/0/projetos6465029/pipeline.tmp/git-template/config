@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[transfer]
+	bundleURI = true
+[http "https://gitlab.com"]
+	sslCAInfo = /home/tuneli/Treinamentos/Gitlab-CI-CD/builds/xXAGxrRak/0/projetos6465029/pipeline.tmp/CI_SERVER_TLS_CA_FILE
